@@ -42,11 +42,11 @@ public class Probablity {
 
                     } else {
                         birthdays.add(randomNumber);
-                    }
+                    
 
                 }
                 birthdays.clear(); //clear the Hashset
-
+}
             }
 
             probablity = calcProbability(counter, 5000);
